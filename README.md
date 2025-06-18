@@ -19,7 +19,7 @@ Build ethical awareness in messaging and operations
 
 This project includes a simple HTML mockup of the chatbot interface. It is ideal for showcasing basic chatbot behavior using rule-based responses (not OpenAI API connected yet).
 
-✅ Features
+### Features
 
 Preloaded prompts from governance, messaging, fundraising, and team culture domains
 
