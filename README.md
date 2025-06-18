@@ -29,13 +29,13 @@ Clean, embeddable interface (HTML + JavaScript only)
 
 ## Implementation on Your Platform
 
-## File: index.html
+## File: UI.html
 
 This file contains all the chatbot UI and logic in one place. You can:
 
 Embed in your platform (if it supports HTML block/iframe):
 
-Use an <iframe> to load index.html
+Use an <iframe> to load UI.html
 
 Or paste the code directly into an HTML module on low-code platforms (e.g., Webflow, Tilda, Typedream)
 
